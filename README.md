@@ -16,6 +16,8 @@ Il en résulte un fort sentiment de BIEN-ÊTRE et de connection avec le flux de 
 
 <figure><img src=".gitbook/assets/Capture d’écran_2023-03-17_05-39-42.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/Tk.png" alt=""><figcaption></figcaption></figure>
+
 
 
 :thumbsup:  **Les avantages :**
