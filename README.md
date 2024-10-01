@@ -25,13 +25,17 @@ Il en résulte un fort sentiment de BIEN-ÊTRE et de connection avec le flux de 
 
 <figure><img src=".gitbook/assets/Capture d’écran_2023-03-17_05-39-42.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Tk (1).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src=".gitbook/assets/Tk.png" alt=""><figcaption></figcaption></figure>
 
 
 
 :thumbsup:  **Les avantages :**
+
+
+
+<figure><img src=".gitbook/assets/k gamma.png" alt=""><figcaption></figcaption></figure>
+
+
 
 * **Soulage** les tensions et douleurs ; maux de tête, maux de dos, maux d'estomac…
 * **Libère** les tensions émotionnelles et mentales,
@@ -78,7 +82,7 @@ Pour une maladie grave ou des symptômes persistants qui s'aggravent, faites tou
 
 <figure><img src=".gitbook/assets/Identifier.png" alt=""><figcaption></figcaption></figure>
 
-
+<figure><img src=".gitbook/assets/comK.png" alt=""><figcaption></figcaption></figure>
 
 :point\_right:  Si vous en ressentez trop de stress,
 
