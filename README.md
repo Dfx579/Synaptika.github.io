@@ -1,20 +1,31 @@
 ---
 description: >-
   Le Touch for Health® est une synthèse de l’acupressing, la chiropratique, la
-  naturopathie et de l'ostéopathie.
+  naturopathie et
+  de                                                                    
+  l'ostéopathie.
+hidden: true
 ---
 
-# ✋ Découvrez les bienfaits du Touch for Health®
+# ✋ Découvrez les bienfaits du Touch for                             Health®
+
+
 
 Le **test** **musculaire** est utilisé comme un moyen d'identifier les déséquilibres énergétiques dans le corps.
 
-Cette approche permet d'équilibrer les circuits musculaires et énergétiques en stimulant les **processus d'autorégulation**.&#x20;
+
+
+&#x20;
+
+&#x20;
 
 Il en résulte un fort sentiment de BIEN-ÊTRE et de connection avec le flux de la vie.
 
 
 
 <figure><img src=".gitbook/assets/Capture d’écran_2023-03-17_05-39-42.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Tk (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Tk.png" alt=""><figcaption></figcaption></figure>
 
